@@ -1,0 +1,9 @@
+From = 17/9/2012 01:01:26 GMT - To 25/9/2012 01:21:26 GMT
+
+
+
+
+The Number of Positive Tweets = 1158
+The Number of Negative Tweets = 177
+The Number of Natural Tweets = 2538
+The total tweets = 3873
